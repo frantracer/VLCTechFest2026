@@ -1,6 +1,6 @@
-# VLCTechFest2025
+# VLCTechFest2026
 
-Website for the VLCTechFest2025 event.
+Website for the VLCTechFest2026 event.
 Created with ❤ by volunteers.
 
 ## How to use

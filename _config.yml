@@ -6,18 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: VLCTechFest 2025
+title: VLCTechFest 2026
 email: hola@vlctechfest.org
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://vlctechfest.org # the base hostname & protocol for your site
 description:
-  es: 14 de junio de 2025. Evento gratuito y abierto a todo el mundo que reúne a las comunidades tecnológicas de la Comunidad Valenciana.
-  en: June 14th, 2025. Free and open event for everyone to bring together the technical communities of Valencian Community.
-  ca: 14 de juny de 2025. Esdeveniment gratuït i obert a tothom que reuneix les comunitats tecnològiques de la Comunitat Valenciana.
+  # Replace with bottom 3 text once the date is clear.
+  es: Evento gratuito y abierto a todo el mundo que reúne a las comunidades tecnológicas de la Comunidad Valenciana.
+  en: Free and open event for everyone to bring together the technical communities of Valencian Community.
+  ca: Esdeveniment gratuït i obert a tothom que reuneix les comunitats tecnològiques de la Comunitat Valenciana.
+  # es: 14 de junio de 2026. Evento gratuito y abierto a todo el mundo que reúne a las comunidades tecnológicas de la Comunidad Valenciana.
+  # en: June 14th, 2026. Free and open event for everyone to bring together the technical communities of Valencian Community.
+  # ca: 14 de juny de 2026. Esdeveniment gratuït i obert a tothom que reuneix les comunitats tecnològiques de la Comunitat Valenciana.
 share_image:
-  es: vlctechfest2025_es.png
-  en: vlctechfest2025_en.png
-  ca: vlctechfest2025_ca.png
+  es: vlctechfest2026_es.png
+  en: vlctechfest2026_en.png
+  ca: vlctechfest2026_ca.png
 fest:
   youtube_url: https://www.youtube.com/channel/UCS7z_DqAOTqwANFvmKmM5ig
 hub:
@@ -37,15 +41,15 @@ path:
 navigation:
   - about
   # - cfp
-  - agenda
-  - workshops
-  - speakers
+  # - agenda
+  # - workshops
+  # - speakers
   - faq
   - communities
-  - sponsors
-  #- coc
-  #- principles
-  - location
+  # - sponsors
+  - coc
+  - principles
+  # - location
 locale:
   es: es_ES
   en: en_US
