@@ -1,7 +1,7 @@
 es:
   head:
-    description: 14 de junio // Las Naves // Evento gratuito // Acceso libre
-    description_1: 14 de junio // 09:00 - 20:00 // Las Naves
+    description: 23 de mayo // Las Naves // Evento gratuito // Acceso libre
+    description_1: 23 de mayo // 09:00 - 20:00 // Las Naves
     description_2: Un evento gratuito y de acceso libre
   navigation:
     index:
@@ -57,7 +57,7 @@ es:
       label: Localización
   main:
     subtitle: Un evento gratuito y de acceso libre
-    date: 14 Junio 2026
+    date: 23 Mayo 2026
     place: Las Naves
   communities:
     title: Comunidades
@@ -102,8 +102,8 @@ Reserva tu entrada escribiendo un mail a <a href='mailto:hola@vlctechfest.org'>h
 
 en:
   head:
-    description: June 14th // Las Naves // Free event // Free access
-    description_1: June 14th // 09:00 - 20:00 // Las Naves
+    description: May 23rd // Las Naves // Free event // Free access
+    description_1: May 23rd // 09:00 - 20:00 // Las Naves
     description_2: Free event and free access
   navigation:
     index:
@@ -159,7 +159,7 @@ en:
       label: Location
   main:
     subtitle: Free event and free access
-    date: 14 June 2026
+    date: May 23rd 2026
     place: Las Naves
   communities:
     title: Communities
@@ -203,8 +203,8 @@ See you there!"
 
 ca:
   head:
-    description: 14 de Juny // Las Naves // Esdeveniment gratuït // Accés lliure
-    description_1: 14 de Juny // 09:00 - 20:00 // Las Naves
+    description: 23 de maig // Las Naves // Esdeveniment gratuït // Accés lliure
+    description_1: 23 de maig // 09:00 - 20:00 // Las Naves
     description_2: Un esdeveniment gratuït i d'accés lliure
   navigation:
     index:
@@ -260,7 +260,7 @@ ca:
       label: Localització
   main:
     subtitle: Un esdeveniment gratuït i d'accés lliure
-    date: 14 Juny 2026
+    date: 23 Maig 2026
     place: Las Naves
   communities:
     title: Comunitats
