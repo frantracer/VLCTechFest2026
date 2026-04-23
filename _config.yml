@@ -19,9 +19,9 @@ description:
   en: May 23rd, 2026. Free and open event for everyone to bring together the technical communities of Valencian Community.
   ca: 23 de maig de 2026. Esdeveniment gratuït i obert a tothom que reuneix les comunitats tecnològiques de la Comunitat Valenciana.
 share_image:
-  es: vlctechfest2026_es_cfp_ext.png
-  en: vlctechfest2026_en_cfp_ext.png
-  ca: vlctechfest2026_ca_cfp_ext.png
+  es: vlctechfest2026_es.png
+  en: vlctechfest2026_en.png
+  ca: vlctechfest2026_ca.png
 fest:
   youtube_url: https://www.youtube.com/channel/UCS7z_DqAOTqwANFvmKmM5ig
 hub:
@@ -40,7 +40,7 @@ path:
   community_images: /images/communities/
 navigation:
   - about
-  - cfp
+  # - cfp
   # - agenda
   # - workshops
   # - speakers
